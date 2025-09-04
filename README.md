@@ -234,7 +234,7 @@ If you use MBDVR in your research, please cite:
 ```bibtex
 @software{mbdvr,
   title={MBDVR: Multi-condition Behavioral Data from Virtual Reality CLI},
-  author={Milan Das},
+  author={mbd888},
   year={2025},
   url={https://github.com/mbd888/mbdvr}
 }
