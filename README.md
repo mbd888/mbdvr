@@ -26,7 +26,7 @@ mbdvr replay --input cleaned_data.csv
 
 MBDVR is designed for **VR eye-tracking research** where you need to compare behavioral data across different experimental conditions. Whether you're studying attention in virtual environments, presence effects, or cognitive load during VR experiences, MBDVR handles the data processing so you can focus on the research.
 
-The tool is **completely experiment-agnostic** - instead of being hardcoded for specific conditions, it lets you specify:
+The tool is intended to be **experiment-agnostic** - instead of being hardcoded for specific conditions, it lets you specify:
 - **Any condition names** you want (`boring`, `engaging`, `stressful`, `relaxing`, `bright`, `dark`, etc.)
 - **Any column names** from your CSV files  
 - **Any experimental design** (2 conditions, 10 conditions, whatever you need)
